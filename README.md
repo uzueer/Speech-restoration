@@ -181,34 +181,22 @@ The following metrics are calculated:
 
 ---
 
-## 🧑‍💻 Future Enhancements
-
-* Integration with **real-time audio stream input**
-* **Lighter model** for edge deployment on hearing aids
-* UI dashboard for waveform visualization and SNR comparison
-* Integration with **Hugging Face Hub** for public model demo
-
----
 
 ## 🤝 Acknowledgements
 
 Special thanks to:
 
-* **Hu et al.** for the [Deep Complex CRN architecture](https://github.com/huyanxin/DeepComplexCRN)
+* **huyanxin** for the [Deep Complex CRN architecture](https://github.com/huyanxin/DeepComplexCRN)
 * **Valentini Speech Dataset** contributors
 * **SRM University AP** for providing research infrastructure
 
 ---
 
-## 🏷️ License
 
-This project is licensed under the **MIT License** — feel free to use and modify it with attribution.
-
----
 
 ## 📬 Contact
 
 **Author:** Syed Uzair
-📧 [[syeduzairsnu@gmail.com](mailto:your-email@example.com)]
+📧 [[syeduzairsnu@gmail.com](mailto:syeduzairsnu@gmail.com)]
 🌐 [https://www.linkedin.com/in/syeduzairn/]
 
