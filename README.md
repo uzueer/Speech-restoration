@@ -188,7 +188,7 @@ Special thanks to:
 
 * **huyanxin** for the [Deep Complex CRN architecture](https://github.com/huyanxin/DeepComplexCRN)
 * **Valentini Speech Dataset** contributors
-* **SRM University AP** for providing research infrastructure
+
 
 ---
 
